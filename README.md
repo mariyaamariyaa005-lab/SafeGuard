@@ -32,8 +32,6 @@ on-device AI.
 - **IDE:** Android Studio
 - **Libraries:** Vosk Android 0.3.47, Google Play Services Location 21.3.0, Kotlinx Coroutines 1.8.0, Gson 2.10.1
 
-## 📱 Screenshots
-*(Add screenshots here)*
 
 ## 🚀 How to Run
 1. Clone the repository
