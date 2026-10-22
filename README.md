@@ -40,23 +40,18 @@ low-connectivity situations.
     manufacturer battery/security restrictions.
 
 ## Screenshots
+## Screenshots
 
-### Main safety screen
+### Main Safety Screen
+![SafeGuard Main Screen](main-screen.png)
 
-![SafeGuard main screen](main-screen.png)
+### Calculator Stealth Mode
+![Calculator Stealth Mode](calculator-stealth-mode.png)
 
-### Calculator-style Stealth Mode
-
-![Calculator-style Stealth
-Mode](calculator-stealth-mode.png)
-
-### Emergency SMS examples
-
-  -------------------------------------------------------------------------------------------------
-  Panic button                                Offline voice trigger
-  ------------------------------------------- -----------------------------------------------------
-  ![SMS after panic                           ![SMS after offline voice
-  button](sms-panic-button.png)   trigger](sms-offline-voice-trigger.png)
+### Emergency SMS Alerts
+![Panic Button SMS](sms-panic-button.png)
+![Offline Voice Trigger](sms-offline-voice-trigger.png)
+![Volume Button Trigger](sms-volume-button-trigger.png)
 
   -------------------------------------------------------------------------------------------------
 
