@@ -283,13 +283,6 @@ Application\
 **University:** Anna University\
 **Project period:** 2026
 
-## License
-
-No open-source license has been specified in the supplied project
-material. If you want others to reuse, modify, or distribute this
-project, choose and add a license file that matches your intentions.
-Without a license, users generally do not receive permission to reuse
-the code beyond applicable legal exceptions.
 
 ------------------------------------------------------------------------
 
