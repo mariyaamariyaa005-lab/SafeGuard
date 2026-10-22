@@ -43,12 +43,12 @@ low-connectivity situations.
 
 ### Main safety screen
 
-![SafeGuard main screen](screenshots/main-screen.png)
+![SafeGuard main screen](main-screen.png)
 
 ### Calculator-style Stealth Mode
 
 ![Calculator-style Stealth
-Mode](screenshots/calculator-stealth-mode.png)
+Mode](calculator-stealth-mode.png)
 
 ### Emergency SMS examples
 
@@ -56,12 +56,12 @@ Mode](screenshots/calculator-stealth-mode.png)
   Panic button                                Offline voice trigger
   ------------------------------------------- -----------------------------------------------------
   ![SMS after panic                           ![SMS after offline voice
-  button](screenshots/sms-panic-button.png)   trigger](screenshots/sms-offline-voice-trigger.png)
+  button](sms-panic-button.png)   trigger](sms-offline-voice-trigger.png)
 
   -------------------------------------------------------------------------------------------------
 
 ![SMS after volume-button
-trigger](screenshots/sms-volume-button-trigger.png)
+trigger](sms-volume-button-trigger.png)
 
 ## Technology Stack
 
